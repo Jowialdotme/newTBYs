@@ -1,0 +1,35 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #181818;
+}
+.home-image {
+  width: 348px;
+  height: 308px;
+  object-fit: cover;
+}
+.home-s {
+  top: 735px;
+  left: 726px;
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  font-family: Montserrat;
+  font-weight: 800;
+  border-color: #4a4646;
+  border-width: var(--dl-size-size-xsmall);
+  background-color: #57cfec;
+}
+.home-heading {
+  top: 686px;
+  left: 596px;
+  color: var(--dl-color-primary-700);
+  position: absolute;
+}
+#181818
+/projects/frosty-frozen-snake-wzzv3m
